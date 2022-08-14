@@ -1,0 +1,3 @@
+/home/bukenya/CLionProjects/Spreadsheet/cmake-build-debug/CMakeFiles/Spreadsheet.dir
+/home/bukenya/CLionProjects/Spreadsheet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bukenya/CLionProjects/Spreadsheet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,26 @@
+# ninja log v5
+0	432	1660498582768568304	build.ninja	3cd56a79a9d705aa
+0	2586	1660498585360647009	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+1	2591	1660498585364647130	CMakeFiles/Spreadsheet.dir/SpreedsheetCell.cpp.o	7a59d5c6ee5b5782
+2591	3107	1660498585880662796	Spreadsheet	327ece39292586f4
+1	585	1660498720672723008	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+585	694	1660498720784726357	Spreadsheet	327ece39292586f4
+2	978	1660499917323413048	CMakeFiles/Spreadsheet.dir/SpreedsheetCell.cpp.o	7a59d5c6ee5b5782
+1	1020	1660499917367414304	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+1020	1134	1660499917479417503	Spreadsheet	327ece39292586f4
+2	546	1660499948096291658	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+546	657	1660499948204294741	Spreadsheet	327ece39292586f4
+1	582	1660500009614047367	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+582	677	1660500009706049992	Spreadsheet	327ece39292586f4
+2	1044	1660500684017532827	CMakeFiles/Spreadsheet.dir/SpreedsheetCell.cpp.o	7a59d5c6ee5b5782
+1	1067	1660500684041533550	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+1	607	1660500747531441655	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+0	3	0	clean	511eb943ef267bdb
+2	601	1660500766304003815	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+2	641	1660500766344005012	CMakeFiles/Spreadsheet.dir/SpreedsheetCell.cpp.o	7a59d5c6ee5b5782
+0	7	0	clean	511eb943ef267bdb
+2	604	1660500897283903432	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+3	639	1660500897315904380	CMakeFiles/Spreadsheet.dir/SpreedsheetCell.cpp.o	7a59d5c6ee5b5782
+640	733	1660500897407907107	Spreadsheet	327ece39292586f4
+1	662	1660500927980812291	CMakeFiles/Spreadsheet.dir/main.cpp.o	3cbdf04c3628a8dd
+662	773	1660500928092815604	Spreadsheet	327ece39292586f4
